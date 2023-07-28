@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Thanks to Bootstrapmade.com for the template
 
 Template Name: Personal
 Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
